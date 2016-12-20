@@ -9,7 +9,7 @@ Do not hesitate to make pull requests or comment.
 
 Clone or download the repository, and do the following : 
 ```
- $ npm install
+ $ yarn install
 ```
 
 
@@ -23,8 +23,8 @@ $ gulp
 
 # Tools
 
-* gulp
 * yarn
+* gulp
 * sass
 * browser-sync
 * autoprefixer
@@ -36,3 +36,5 @@ $ gulp
 * modernizr
 * zepto
 * font-awesome
+
+version 1.0
